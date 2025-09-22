@@ -25,5 +25,12 @@ paso 4 muestro el texto![alt text](image-3.png)
 
 paso 5 agrego nombres con la opcion 1 y los muestro con la opcion 4 ![alt text](image-4.png)
 
+paso 6 uso la opcion 2 para deshacer ![alt text](image-5.png)
+
+paso 7 verifico si funciona la opcion 2, usando la opcion 4![alt text](image-6.png)
+
+Paso 8 Uso la opcion 3 para rehacer ![alt text](image-7.png)
+
+Paso 9 verifico si funciono la opcion 3, usando la opcion 4![alt text](image-8.png)
 ##  Contribuyente
 [Alejandro Jaramillo Garro]

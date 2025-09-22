@@ -71,7 +71,7 @@ public class EditorConsola {
         
         if (accionDeshecha != null) {
             pilaRedo.push(accionDeshecha); // Mueve la acción a la pila Redo
-            System.out.println("\n✅ UNDO realizado. Se deshiizo: '" + accionDeshecha + "'.");
+            System.out.println("\n✅ UNDO realizado. Se deshizo: '" + accionDeshecha + "'.");
         } else {
             System.out.println("\n⚠️ No hay acciones para deshacer.");
         }
