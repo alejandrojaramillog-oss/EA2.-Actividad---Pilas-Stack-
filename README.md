@@ -22,5 +22,8 @@ paso 2 muestro el texto![alt text](image-1.png)
 paso 3 ingreso otro texto![ alt text](image-2.png)
 
 paso 4 muestro el texto![alt text](image-3.png) 
+
+paso 5 agrego nombres con la opcion 1 y los muestro con la opcion 4 ![alt text](image-4.png)
+
 ##  Contribuyente
 [Alejandro Jaramillo Garro]
