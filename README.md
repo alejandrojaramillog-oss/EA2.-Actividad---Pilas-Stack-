@@ -1,6 +1,6 @@
 # EA2.-Actividad---Pilas-Stack-
 Que el estudiante comprenda el concepto de pila y su estructura, y que sea capaz de aplicarlo en un simulador de deshacer/rehacer (Undo/Redo) en un editor de texto simple, implementado en Java, trabajando en equipo y utilizando buenas prácticas de control de versiones con GitHub.
-# 💾 Simulador de Deshacer/Rehacer (Undo/Redo) en Consola
+#  Simulador de Deshacer/Rehacer (Undo/Redo) en Consola
 
 ## Objetivo del Proyecto
 Implementar la estructura de datos **Pila (Stack)** de forma manual en Java para simular las funcionalidades de Deshacer (Undo) y Rehacer (Redo) en un editor de texto simple.
@@ -17,9 +17,9 @@ Se utilizan dos pilas:
 4.  Sigue las opciones del menú.
 
 ## 📷 Capturas de Pantalla de la Ejecución
-1![alt text](image.png) paso 1 ingreso texto
-2 ![alt text](image-1.png) paso 2 muestro el texto
-3 ![ alt text](image-2.png) paso 3 ingreso otro texto
-4 ![alt text](image-3.png) paso 4 muestro el texto
-## 🧑‍💻 Contribuyente
+paso 1 ingreso texto![alt text](image.png) 
+paso 2 muestro el texto ![alt text](image-1.png) 
+paso 3 ingreso otro texto![ alt text](image-2.png)
+paso 4 muestro el texto ![alt text](image-3.png) 
+##  Contribuyente
 [Alejandro Jaramillo Garro]
