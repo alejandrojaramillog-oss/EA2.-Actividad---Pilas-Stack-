@@ -18,8 +18,8 @@ Se utilizan dos pilas:
 
 ## 📷 Capturas de Pantalla de la Ejecución
 paso 1 ingreso texto![alt text](image.png) 
-paso 2 muestro el texto ![alt text](image-1.png) 
+paso 2 muestro el texto![alt text](image-1.png) 
 paso 3 ingreso otro texto![ alt text](image-2.png)
-paso 4 muestro el texto ![alt text](image-3.png) 
+paso 4 muestro el texto![alt text](image-3.png) 
 ##  Contribuyente
 [Alejandro Jaramillo Garro]
